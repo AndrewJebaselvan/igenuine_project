@@ -153,10 +153,10 @@ Suite Room [#2, ₹3000.0, Booked: false]
 
 ## ✍️ Author
 
-**Andrew Jebaselvan P.**
+**Jeba Selvan Andrew P.**
 *Artificial Intelligence And Data Science Student*
 📁 Project Folder: `D:/placement/day_21`
-📧 [andrew.jebaselvan@example.com](mailto:andrew.jebaselvan@example.com)
+📧 [jebaselvanandrew@gmail.com](mailto:jebaselvanandrew@gmail.com)
 
 ---
 ---
