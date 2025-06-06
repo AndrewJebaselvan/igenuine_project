@@ -1,4 +1,3 @@
-package day_21;
 import java.io.*;
 import java.util.*;
 
@@ -131,7 +130,7 @@ class Hotel {
 }
 
 public class Hotel_managemet2 {
-    private static final String FILE_PATH = "D:/placement/day_21/users.csv";
+    private static final String FILE_PATH = "/workspaces/igenuine_project/users.csv";
     private static Map<String, String> userDatabase = new HashMap<>();
     private static Scanner sc = new Scanner(System.in);
     private static Hotel hotel = new Hotel();

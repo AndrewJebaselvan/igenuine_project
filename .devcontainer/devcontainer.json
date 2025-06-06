@@ -1,0 +1,15 @@
+{
+  "name": "Java Hotel Management",
+  "image": "mcr.microsoft.com/devcontainers/java:latest",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "11"
+    }
+  },
+  "postCreateCommand": "javac src/Hotel_management2.java",
+  "customizations": {
+    "vscode": {
+      "extensions": ["vscjava.vscode-java-pack"]
+    }
+  }
+}

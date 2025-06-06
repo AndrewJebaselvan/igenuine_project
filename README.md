@@ -159,6 +159,20 @@ Suite Room [#2, ₹3000.0, Booked: false]
 📧 [andrew.jebaselvan@example.com](mailto:andrew.jebaselvan@example.com)
 
 ---
+---
+
+## 🧠 OOPs Concepts Summary
+
+| OOP Concept     | Used In                                         | Benefit                                |
+|----------------|--------------------------------------------------|----------------------------------------|
+| **Abstraction**     | `Room` class (abstract methods)                 | Hides complexity, defines a template   |
+| **Inheritance**     | Room types inherit from `Room`                  | Code reuse and specialization          |
+| **Encapsulation**   | `Customer` class with private fields            | Data protection and controlled access  |
+| **Polymorphism**    | Method overriding (`getRoomType()`), base refs  | Flexible method behavior               |
+| **Classes/Objects** | All major components built as objects           | Modular, maintainable code structure   |
+
+---
+
 
 ## 📌 License
 
